@@ -1,0 +1,39 @@
+.container-sm {
+    height: 20rem;
+    width: 30rem;
+}
+
+#contenedor {
+    background-image: url(https://cdn.pixabay.com/photo/2022/05/25/09/39/animal-7220153_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+#contenedor h5 {
+    background: rgba(0, 0, 0, 0.239);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#contenedor p {
+    background: rgba(0, 0, 0, 0.239);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.text-white {
+    text-decoration-line: none;
+}
+
+.mb-4 {
+    margin-bottom: 0px !important;
+}
+
+#contenedorSaludo {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.059);
+}
